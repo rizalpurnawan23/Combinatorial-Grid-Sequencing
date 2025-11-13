@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17602993.svg)](https://doi.org/10.5281/zenodo.17602993)
+
 # **CGS-MPD-T1**
 
 Welcome to CGS-MPD-T1.
@@ -22,4 +24,5 @@ Follow the command below to import the module into your notebook or local machin
 2. Then import `cgs` using the following command:
 ```
 from cgsMPDT1.cgs import CGSMPDT1
+
 ```
