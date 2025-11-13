@@ -1,0 +1,25 @@
+# **CGS-MPD-T1**
+
+Welcome to CGS-MPD-T1.
+
+## Overview
+
+Combinatorial Grid Sequencing (CGS) is a combinatorial mathematical theory which models certain combinatorial problems, we call CGS problems, including the dynamics within the system. Specifically, this theory is inspired by a problem in concrete casting seqeuncing in civil engineering constructions, which is a particular example of CGS problems.
+
+This repository hosts computational apparatus for computing CGS problems.
+
+## Contributors
+
+[Rizal Purnawan](https://orcid.org/0000-0001-8858-4036), [Angga Trisna Yudhistira](https://orcid.org/0000-0002-7264-7810), [Christoporus A. A. Ohmar](https://orcid.org/0009-0004-2074-3263).
+
+## Importing CGS-MPDT1
+
+Follow the command below to import the module into your notebook or local machine:
+1. First install the package using the following command:
+```
+!pip install git+https://github.com/rizalpurnawan23/CGS-MPDT1.git
+```
+2. Then import `cgs` using the following command:
+```
+from cgsMPDT1.cgs import CGSMPDT1
+```
