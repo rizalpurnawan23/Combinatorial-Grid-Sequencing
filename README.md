@@ -24,5 +24,5 @@ Follow the command below to import the module into your notebook or local machin
 2. Then import `cgs` using the following command:
 ```
 from cgsMPDT1.cgs import CGSMPDT1
-
 ```
+
