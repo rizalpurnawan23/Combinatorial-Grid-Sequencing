@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17602993.svg)](https://doi.org/10.5281/zenodo.17602993)
 
-# **CGS-MPD-T1**
+# **Combinatorial-Grid-Sequencing**
 
-Welcome to CGS-MPD-T1.
+Welcome to CGS
 
 ## Overview
 
