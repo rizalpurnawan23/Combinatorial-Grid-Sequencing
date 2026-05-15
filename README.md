@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17602993.svg)](https://doi.org/10.5281/zenodo.17602993)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20206926.svg)](https://doi.org/10.5281/zenodo.20206926)
 
 # **Combinatorial-Grid-Sequencing**
 
