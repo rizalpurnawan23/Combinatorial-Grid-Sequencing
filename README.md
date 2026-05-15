@@ -8,7 +8,9 @@ Welcome to CGS
 
 Combinatorial Grid Sequencing (CGS) is a combinatorial mathematical theory for modelling a restricted class of grid-based combinatorial problems, which we refer to as CGS problems, including the dynamics within the system. Specifically, this theory is inspired by a problem in concrete-casting seqeuncing in civil engineering constructions, which is a particular example of CGS problems.
 
-This repository hosts a Python implementation and a computational example of CGS.
+This repository hosts Python implementations and computational examples of CGS.
+
+- [A CGS Implementation for a 3-Storey Building Construction Sequencing](cgs_application_01/cgs-impl.ipynb)
 
 ## Contributors
 
